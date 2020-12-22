@@ -1,0 +1,51 @@
+[
+  {
+    "img": "../assets/images/demacia.jpg",
+    "alt": "Demacia",
+    "name": "Demacia",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/noxus.jpg",
+    "alt": "Noxus",
+    "name": "Noxus",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/freljord.jpg",
+    "alt": "Freljord",
+    "name": "Freljord",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/ionia.jpg",
+    "alt": "Ionia",
+    "name": "Ionia",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/zaun.jpg",
+    "alt": "Zaun",
+    "name": "Zaun",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/ixtal.jpg",
+    "alt": "Ixtal",
+    "name": "Ixtal",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/shadow.jpg",
+    "alt": "Shadow Isle",
+    "name": "Shadow Isle",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/bgewater.jpg",
+    "alt": "Bilgewater",
+    "name": "BilgeWater",
+    "button": "View Destination"
+  }
+
+]
